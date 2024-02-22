@@ -8,7 +8,7 @@ export const options = {
             target: 3,
         },
         {
-            duration: "2m",
+            duration: "90s",
             target: 5,
         },
         {
